@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<players>
+    <player type="free" name="FreePlayer1" password="pwd" gold="9750" vinte="45" perse="6">
+        <esercito>
+            <unit type="veichle" name="Carro Armato" atk="200" def="300" gold="950" premium="0"/>
+            <unit type="soldier" name="Artigliere" atk="200" def="10" gold="1200" premium="0"/>
+            <unit type="veichle" name="Carro Armato" atk="200" def="300" gold="950" premium="0"/>
+            <unit type="veichle" name="Jeep Militare" atk="150" def="150" gold="250" premium="0"/>
+            <unit type="veichle" name="Jeep Militare" atk="150" def="150" gold="250" premium="0"/>
+        </esercito>
+    </player>
+    <player type="free" name="NoArmyPlayer" password="pwd" gold="0" vinte="0" perse="14">
+        <esercito/>
+    </player>
+    <player type="premium" name="PremiumPlayer1" password="password" gold="466" vinte="15" perse="40">
+        <esercito>
+            <unit type="soldier" name="Lagunare" atk="120" def="80" gold="750" premium="1"/>
+            <unit type="soldier" name="Incursore" atk="250" def="70" gold="1100" premium="1"/>
+            <unit type="soldier" name="Geniere" atk="75" def="50" gold="300" premium="0"/>
+            <unit type="veichle" name="Jeep Militare" atk="150" def="150" gold="250" premium="0"/>
+        </esercito>
+    </player>
+</players>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marketplace>
+    <unit type="soldier" name="Incursore" atk="250" def="70" gold="1100" premium="1"/>
+    <unit type="soldier" name="Lagunare" atk="120" def="80" gold="750" premium="1"/>
+    <unit type="soldier" name="Artigliere" atk="200" def="10" gold="1200" premium="0"/>
+    <unit type="soldier" name="Pilota" atk="5" def="120" gold="450" premium="0"/>
+    <unit type="soldier" name="Geniere" atk="75" def="50" gold="300" premium="0"/>
+    <unit type="soldier" name="Fante" atk="15" def="15" gold="150" premium="0"/>
+    <unit type="soldier" name="Mitragliere" atk="150" def="95" gold="950" premium="1"/>
+    <unit type="veichle" name="Carro Armato" atk="200" def="300" gold="950" premium="0"/>
+    <unit type="veichle" name="Jeep Militare" atk="150" def="150" gold="250" premium="0"/>
+    <unit type="veichle" name="Lince" atk="150" def="450" gold="950" premium="1"/>
+</marketplace>
